@@ -1,0 +1,6 @@
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13kakaha\pr13kakaha\x64\Debug\pr13kakaha.vcxproj.AssemblyReference.cache
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13kakaha\pr13kakaha\x64\Debug\pr13kakaha.MyForm.resources
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13kakaha\pr13kakaha\x64\Debug\pr13kakaha.vcxproj.GenerateResource.cache
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\x64\Debug\pr13kakaha.vcxproj.AssemblyReference.cache
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\x64\Debug\pr13kakaha.MyForm.resources
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\x64\Debug\pr13kakaha.vcxproj.GenerateResource.cache

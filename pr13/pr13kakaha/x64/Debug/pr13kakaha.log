@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (pr13kakaha.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(418,16): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(418,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(418,20): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(418,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(419,16): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(419,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(419,20): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\pr13kakaha\MyForm.h(419,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  pr13kakaha.vcxproj -> C:\Users\drmed\OneDrive\Рабочий стол\oop\pr13\x64\Debug\pr13.exe
